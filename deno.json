@@ -1,0 +1,8 @@
+{
+    "name": "@asantos/aoc",
+    "version": "0.0.2",
+    "license": "MIT",
+    "exports": {
+      "./input": "./lib/input.ts"
+    }
+  }
